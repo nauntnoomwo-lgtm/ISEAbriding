@@ -1,4 +1,4 @@
-# 2a-2 Cloud Web Server Deployment with Amazon EC2
+# 2b-1 Cloud Web Server Deployment with Amazon EC2
 
 ## Launching EC2 on AWS
 In this lab, the main task is to use AWS to create a virtual machine and the rest will be describe through documentation.
