@@ -20,7 +20,7 @@ This is the screenshot of the terminal window(CLI) to confirm that OS is operati
 
 SSH Enabled <br>
 -sudo apt update <br>
--sudo apt install ssh-server<br>
+-sudo apt install openssh-server<br>
 -the y for y/n <br>
 SSH is active(running) <br>
 -q for quit
