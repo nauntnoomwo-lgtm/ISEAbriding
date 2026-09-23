@@ -4,5 +4,6 @@
 <img width="1470" height="956" alt="Screenshot 2026-09-23 at 9 50 13 AM" src="https://github.com/user-attachments/assets/7a2d1f40-d033-4061-b1ea-4e1b0f1effab" />
 <img width="1470" height="956" alt="Screenshot 2026-09-23 at 9 50 17 AM" src="https://github.com/user-attachments/assets/5c80f0c7-7c85-4503-9836-9eb904f9b876" />
 
-Ubutu crashed out while I was running for this lab. Every installation shows as in the screenshots.
+Ubutu crashed out while I was running for this lab. Every installation shows as in the screenshots. Problem wasn't able to fix. I've tried a lot of reinstallation but still the same and didn't get enough time due to deadline.
+
 
